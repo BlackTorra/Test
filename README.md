@@ -1,4 +1,4 @@
-# House Automation
+# Project name - House Automation
 I have created this application from scratch using React JS latest features. 
 
 # How to use it
@@ -6,7 +6,7 @@ Download the code and got the house-automation folder and run below commands
 1. npm install   
 2. npm start  to run this project.
 
-#Implementation detail
+# Implementation detail
 Source file data.json which provide data to load UI components, Every js/jsx file has its own css. Project is structured as components, Store and Layout.
 Once UI components rendered then application configure the context and use state and event handling to take action on data. Update the modified content
 with the help of reducer. There is only one object which modifies on user actions and can be send or save in DB. 
