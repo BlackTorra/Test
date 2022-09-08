@@ -1,0 +1,57 @@
+.counter {
+    text-align: center;
+    margin: 3rem 0;
+  }
+  
+  .counter button {
+    margin: 0 1rem;
+  }
+
+  .inStyle{
+    display: inline-flex;
+  }
+
+  .actions {
+    display: flex;
+    flex-direction: column;
+  }
+
+  button {
+    border-radius: 100px;
+    height: 40px;
+    width: 40px;
+    font-size: 32px;
+    color: #ffffff;
+    background: rgb(105, 104, 104);
+    border: 2px #ffffff solid;
+  }
+  
+  button:hover {
+    background: rgb(184, 184, 184);
+    cursor: pointer;
+  }
+  
+  button:focus {
+    outline: 0;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  .neutral {
+    background: rgb(184, 184, 184);
+  }
+
+.label-text {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+  

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Bedroom 01",
+    "temp":60,
+    "light":false,
+    "curtain":false
+  },
+  {
+    "id": 2,
+    "name": "Bedroom 02",
+    "temp":70,
+    "light":false,
+    "curtain":true
+  },
+  {
+      "id": 3,
+      "name": "Living Room",
+      "temp":68,
+      "light":true,
+      "curtain":false
+  }
+]

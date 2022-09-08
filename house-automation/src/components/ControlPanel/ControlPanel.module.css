@@ -1,0 +1,13 @@
+.card {
+    margin:2rem auto;
+    max-width:  60%;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    background-color: rgb(158, 169, 234);
+  }
+
+
+  .inStyle{
+    display: inline-flex;
+  }
